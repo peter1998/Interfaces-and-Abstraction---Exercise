@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exercises Polymorphism\Problem01.Vehicles\bin\Debug\netcoreapp2.1\Problem01.Vehicles.deps.json
+C:\Users\User\source\repos\Exercises Polymorphism\Problem01.Vehicles\bin\Debug\netcoreapp2.1\Problem01.Vehicles.runtimeconfig.json
+C:\Users\User\source\repos\Exercises Polymorphism\Problem01.Vehicles\bin\Debug\netcoreapp2.1\Problem01.Vehicles.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exercises Polymorphism\Problem01.Vehicles\bin\Debug\netcoreapp2.1\Problem01.Vehicles.dll
+C:\Users\User\source\repos\Exercises Polymorphism\Problem01.Vehicles\bin\Debug\netcoreapp2.1\Problem01.Vehicles.pdb
+C:\Users\User\source\repos\Exercises Polymorphism\Problem01.Vehicles\obj\Debug\netcoreapp2.1\Problem01.Vehicles.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exercises Polymorphism\Problem01.Vehicles\obj\Debug\netcoreapp2.1\Problem01.Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercises Polymorphism\Problem01.Vehicles\obj\Debug\netcoreapp2.1\Problem01.Vehicles.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exercises Polymorphism\Problem01.Vehicles\obj\Debug\netcoreapp2.1\Problem01.Vehicles.AssemblyInfo.cs
+C:\Users\User\source\repos\Exercises Polymorphism\Problem01.Vehicles\obj\Debug\netcoreapp2.1\Problem01.Vehicles.dll
+C:\Users\User\source\repos\Exercises Polymorphism\Problem01.Vehicles\obj\Debug\netcoreapp2.1\Problem01.Vehicles.pdb

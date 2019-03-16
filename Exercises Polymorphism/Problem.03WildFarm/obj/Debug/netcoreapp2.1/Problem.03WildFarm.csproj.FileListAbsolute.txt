@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exercises Polymorphism\Problem.03WildFarm\bin\Debug\netcoreapp2.1\Problem.03WildFarm.deps.json
+C:\Users\User\source\repos\Exercises Polymorphism\Problem.03WildFarm\bin\Debug\netcoreapp2.1\Problem.03WildFarm.runtimeconfig.json
+C:\Users\User\source\repos\Exercises Polymorphism\Problem.03WildFarm\bin\Debug\netcoreapp2.1\Problem.03WildFarm.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exercises Polymorphism\Problem.03WildFarm\bin\Debug\netcoreapp2.1\Problem.03WildFarm.dll
+C:\Users\User\source\repos\Exercises Polymorphism\Problem.03WildFarm\bin\Debug\netcoreapp2.1\Problem.03WildFarm.pdb
+C:\Users\User\source\repos\Exercises Polymorphism\Problem.03WildFarm\obj\Debug\netcoreapp2.1\Problem.03WildFarm.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exercises Polymorphism\Problem.03WildFarm\obj\Debug\netcoreapp2.1\Problem.03WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercises Polymorphism\Problem.03WildFarm\obj\Debug\netcoreapp2.1\Problem.03WildFarm.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exercises Polymorphism\Problem.03WildFarm\obj\Debug\netcoreapp2.1\Problem.03WildFarm.AssemblyInfo.cs
+C:\Users\User\source\repos\Exercises Polymorphism\Problem.03WildFarm\obj\Debug\netcoreapp2.1\Problem.03WildFarm.dll
+C:\Users\User\source\repos\Exercises Polymorphism\Problem.03WildFarm\obj\Debug\netcoreapp2.1\Problem.03WildFarm.pdb
